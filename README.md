@@ -32,3 +32,5 @@ Courtesy of [Vikas Rai](https://github.com/raiv200)
 
 
 Novo link
+
+fix: corrige para versao compatível da biblioteca 'json-schema' (v.0.4.0)
